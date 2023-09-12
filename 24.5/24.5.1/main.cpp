@@ -75,8 +75,7 @@ void status(std::vector<Task> &tasks) {
     for (int i = 0; i < tasks.size(); i++) {
       std::cout << "-----------------" << std::endl;
       std::cout << "Task name: " << tasks[i].name << std::endl;
-			std::tm* local = std::localtime(&tasks[i].timer);
-			local->tm_hour -= 3;
+			std::tm* local = std::gmtime(&tasks[i].timer);
       std::cout << "Task timer: " << std::put_time(local,"%H:%M:%S") << std::endl;
       std::cout << "Task status: "
                 << ((tasks[i].is_active) ? "active" : "inactive") << std::endl;
