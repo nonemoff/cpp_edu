@@ -1,6 +1,7 @@
 #pragma once
 
-#include "./struct.h"
+#include <iostream>
+#include "struct.h"
 
 void scalpel(Point point1, Point point2);
 

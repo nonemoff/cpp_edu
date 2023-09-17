@@ -1,5 +1,4 @@
-#include "../include/func.h"
-#include "../src/func.cpp"
+#include "func.h"
 
 int main() {
   Point point1, point2;

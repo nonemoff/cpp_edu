@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/matvey/Education/cpp_edu/25.4/25.4.1/build/src",
+  "command": "/usr/bin/c++  -I/home/matvey/Education/cpp_edu/25.4/25.4.1/= -I/home/matvey/Education/cpp_edu/25.4/25.4.1/include -I/home/matvey/Education/cpp_edu/25.4/25.4.1/src/include  -o CMakeFiles/main.dir/func.cpp.o -c /home/matvey/Education/cpp_edu/25.4/25.4.1/src/func.cpp",
+  "file": "/home/matvey/Education/cpp_edu/25.4/25.4.1/src/func.cpp",
+  "output": "src/CMakeFiles/main.dir/func.cpp.o"
+},
+{
+  "directory": "/home/matvey/Education/cpp_edu/25.4/25.4.1/build/src",
+  "command": "/usr/bin/c++  -I/home/matvey/Education/cpp_edu/25.4/25.4.1/= -I/home/matvey/Education/cpp_edu/25.4/25.4.1/include -I/home/matvey/Education/cpp_edu/25.4/25.4.1/src/include  -o CMakeFiles/main.dir/main.cpp.o -c /home/matvey/Education/cpp_edu/25.4/25.4.1/src/main.cpp",
+  "file": "/home/matvey/Education/cpp_edu/25.4/25.4.1/src/main.cpp",
+  "output": "src/CMakeFiles/main.dir/main.cpp.o"
+}
+]

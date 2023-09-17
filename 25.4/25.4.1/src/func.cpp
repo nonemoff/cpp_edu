@@ -1,5 +1,4 @@
-#include "../include/func.h"
-#include "../include/struct.h"
+#include "func.h"
 
 #include <iostream>
 
