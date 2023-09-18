@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/matvey/Education/cpp_edu/25.4/25.4.2/build/src",
+  "command": "/usr/bin/c++  -I/home/matvey/Education/cpp_edu/25.4/25.4.2/include -I/home/matvey/Education/cpp_edu/25.4/25.4.2/src/include  -o CMakeFiles/main.dir/main.cpp.o -c /home/matvey/Education/cpp_edu/25.4/25.4.2/src/main.cpp",
+  "file": "/home/matvey/Education/cpp_edu/25.4/25.4.2/src/main.cpp",
+  "output": "src/CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/matvey/Education/cpp_edu/25.4/25.4.2/build/src",
+  "command": "/usr/bin/c++  -I/home/matvey/Education/cpp_edu/25.4/25.4.2/include -I/home/matvey/Education/cpp_edu/25.4/25.4.2/src/include  -o CMakeFiles/main.dir/cpu.cpp.o -c /home/matvey/Education/cpp_edu/25.4/25.4.2/src/cpu.cpp",
+  "file": "/home/matvey/Education/cpp_edu/25.4/25.4.2/src/cpu.cpp",
+  "output": "src/CMakeFiles/main.dir/cpu.cpp.o"
+},
+{
+  "directory": "/home/matvey/Education/cpp_edu/25.4/25.4.2/build/src",
+  "command": "/usr/bin/c++  -I/home/matvey/Education/cpp_edu/25.4/25.4.2/include -I/home/matvey/Education/cpp_edu/25.4/25.4.2/src/include  -o CMakeFiles/main.dir/ram.cpp.o -c /home/matvey/Education/cpp_edu/25.4/25.4.2/src/ram.cpp",
+  "file": "/home/matvey/Education/cpp_edu/25.4/25.4.2/src/ram.cpp",
+  "output": "src/CMakeFiles/main.dir/ram.cpp.o"
+},
+{
+  "directory": "/home/matvey/Education/cpp_edu/25.4/25.4.2/build/src",
+  "command": "/usr/bin/c++  -I/home/matvey/Education/cpp_edu/25.4/25.4.2/include -I/home/matvey/Education/cpp_edu/25.4/25.4.2/src/include  -o CMakeFiles/main.dir/disk.cpp.o -c /home/matvey/Education/cpp_edu/25.4/25.4.2/src/disk.cpp",
+  "file": "/home/matvey/Education/cpp_edu/25.4/25.4.2/src/disk.cpp",
+  "output": "src/CMakeFiles/main.dir/disk.cpp.o"
+},
+{
+  "directory": "/home/matvey/Education/cpp_edu/25.4/25.4.2/build/src",
+  "command": "/usr/bin/c++  -I/home/matvey/Education/cpp_edu/25.4/25.4.2/include -I/home/matvey/Education/cpp_edu/25.4/25.4.2/src/include  -o CMakeFiles/main.dir/gpu.cpp.o -c /home/matvey/Education/cpp_edu/25.4/25.4.2/src/gpu.cpp",
+  "file": "/home/matvey/Education/cpp_edu/25.4/25.4.2/src/gpu.cpp",
+  "output": "src/CMakeFiles/main.dir/gpu.cpp.o"
+},
+{
+  "directory": "/home/matvey/Education/cpp_edu/25.4/25.4.2/build/src",
+  "command": "/usr/bin/c++  -I/home/matvey/Education/cpp_edu/25.4/25.4.2/include -I/home/matvey/Education/cpp_edu/25.4/25.4.2/src/include  -o CMakeFiles/main.dir/kbd.cpp.o -c /home/matvey/Education/cpp_edu/25.4/25.4.2/src/kbd.cpp",
+  "file": "/home/matvey/Education/cpp_edu/25.4/25.4.2/src/kbd.cpp",
+  "output": "src/CMakeFiles/main.dir/kbd.cpp.o"
+}
+]
