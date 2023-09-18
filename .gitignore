@@ -4,3 +4,4 @@ Makefile
 CMakeFiles/
 main
 build/*
+.cache
